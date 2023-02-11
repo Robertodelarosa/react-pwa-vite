@@ -29,7 +29,7 @@ const AddToHomeScreen: React.FC = () => {
   return (
     <div>
       {deferredPrompt && (
-        <button onClick={handleAddToHomeScreen}>Add to Home Screen</button>
+        <button onClick={handleAddToHomeScreen}>Descarga la aplicacion aqui</button>
       )}
     </div>
   );
